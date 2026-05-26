@@ -6,7 +6,7 @@ public class ArrayExample {
         int b=2;
         int c=3;
         int d=4;
-//array la garda mathi variable define garako jasari garna parana
+//array resloves the redundancy approach from above example
         int [] numbers= {1,2,3,4};
         int [] mermorymastorenagarnaarrar;
 //        mathi ko jasari define grim vana memory ma directly
@@ -18,4 +18,3 @@ public class ArrayExample {
 
     }
 }
-//c c++ java py  ....
