@@ -3,4 +3,7 @@ package week6.abstraction.InterfaceExample;
 public interface fourwheeler {
     void engine();
     void brake();
+    default void music(){
+        System.out.println("vechile music");
+    }
 }
