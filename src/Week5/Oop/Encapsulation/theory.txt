@@ -1,0 +1,1 @@
+ encapsulation la chai variable and method lai restriction provide garxa

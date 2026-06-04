@@ -1,9 +1,5 @@
 package week4;
-
 import java.util.Scanner;
-
-import java.util.Scanner;
-
 public class SalaryCalculator {
 
     // Global variables accessible by all methods

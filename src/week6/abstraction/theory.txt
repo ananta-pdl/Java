@@ -1,0 +1,8 @@
+
+abstraction vanako kai haina,,
+manum hami la ac ko remote click garda,, temperature badxa ki ghatxa.. tara hami lai kaseri temp badirako xa vanna kura
+ko information ta tha hunna ni.. yo complexity lai hide garxa
+
+
+interface:::
+   --speial class,, yesma  by default sab method haru abstract hunxa

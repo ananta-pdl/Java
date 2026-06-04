@@ -1,0 +1,36 @@
+1. JVM (Java Virtual Machine)
+
+The JVM is the engine that actually runs Java programs.
+
+It reads bytecode (.class files) and executes it.
+
+.class file
+     ↓
+    JVM
+     ↓
+ Executes program
+Why JVM?
+
+Without JVM:
+
+Java code → Windows executable
+Java code → Linux executable
+Java code → Mac executable
+
+You'd need separate builds for every OS.
+
+With JVM:
+
+Java code
+    ↓
+Bytecode (.class)
+    ↓
+JVM on Windows
+JVM on Linux
+JVM on Mac
+
+Same bytecode runs everywhere.
+
+This is Java's famous:
+
+"Write Once, Run Anywhere"

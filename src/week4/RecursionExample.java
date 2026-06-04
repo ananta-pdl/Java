@@ -19,7 +19,7 @@ public class RecursionExample {
             return 1;
         }
     }
-    static void main(String[] args) {
+    public static void main(String[] args) {
         int fact = calcFactorial(5);
         int sum=calcSum(5);
         System.out.println("sum = " + sum);
